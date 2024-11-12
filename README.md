@@ -54,11 +54,13 @@ Copy human_example.csv =>  human.csv  file in the root directory of the project.
 
 ### 4. Install Required Dependencies
 Make sure you have Python installed on your system. Then, install the required dependencies using the requirements.txt file:
-    You need to fill 
-        - id : 1->n
-        - active : 1 to run 
-        - private_key : private_key
-        - proxy : http://username:password@ip:port or ''
+You need to fill 
+``` bash
+ id : 1->n
+active : 1 to run 
+private_key : private_key
+proxy : http://username:password@ip:port or ''
+```
 ```bash
 npm install
 ```
