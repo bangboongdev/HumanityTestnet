@@ -71,3 +71,5 @@ Once everything is set up, you can run the bot with the following command:
 ```bash
 node main.js
 ```
+Check
+  
